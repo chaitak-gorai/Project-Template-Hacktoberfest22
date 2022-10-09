@@ -3,11 +3,13 @@
         <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.sv" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
-[Project Title]
 
+### [Project Title]
 Hello,
 Welcome to.. {PROJECT BASIC INTRODUCTION]
-
+[PROJECT DOMAIN]
+### [PREREQUISITE KNOWLEDGE]
+* List down the technical aspects like HTML, NodeJs, Django
 
 
 
